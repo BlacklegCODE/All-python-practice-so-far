@@ -1,3 +1,4 @@
+
 #while loop practice 3
 
 num = int(input("Enter a number between 1 - 10 :"))
