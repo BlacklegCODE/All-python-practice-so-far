@@ -5,6 +5,7 @@ r = name.find("harsh")
 print(r)
 name = input("Enter your full name :")
 r = name.rfind("harsh")
+
 print(r)
 name = input("Enter small name :")
 r = name.upper()
