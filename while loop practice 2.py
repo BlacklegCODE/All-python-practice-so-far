@@ -6,3 +6,5 @@ while a < 10:
     a = int(input("Enter age this time !!"))
 print(f"So you are {a} years old ?")
 #this is a simple code.
+
+
